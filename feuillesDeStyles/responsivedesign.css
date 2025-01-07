@@ -17,4 +17,8 @@
     .cta-buttonAccueil:visited{
         color: white;
     }
+    main p{
+        color:#333;
+        text-align: center;
+    }
 }
