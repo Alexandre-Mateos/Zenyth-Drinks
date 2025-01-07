@@ -1,0 +1,20 @@
+@media screen and(max-width:768px){
+
+    .cta-buttonAccueil{
+        background-color: #8a2be2;
+        background: linear-gradient(75deg, #8a2be2, #211a8a);
+        padding:10px;
+        box-shadow: -5px 5px 3px rgb(4, 4, 107);
+        border-radius: 10px ;
+        text-align: center;
+        color: white;
+        text-decoration: none;
+    }
+    .cta-buttonAccueil:hover{
+        transform:  scale(1.2);
+        transition: 0.2s;
+    }
+    .cta-buttonAccueil:visited{
+        color: white;
+    }
+}
